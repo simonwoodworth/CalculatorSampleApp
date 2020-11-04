@@ -11,6 +11,8 @@ import org.springframework.test.context.junit4.SpringRunner;
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class CalculatorSampleAppApplicationTests {
+    
+        //Added another comment in the Test class.
         
         @Test
         public void calcAdd() {
